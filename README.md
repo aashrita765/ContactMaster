@@ -20,3 +20,7 @@ This project involves developing a PhoneBook application with a graphical user i
 5. Integrate Functions with GUI:
    - Connected GUI buttons to corresponding functions for handling contacts.
    - Used message boxes and input dialogs for user interactions and notifications.
+
+6. Testing and Validation:
+   - Tested the application to ensure that all functionalities (insertion, deletion, updating,       searching, and displaying) work correctly.
+   - Validated input data and ensured the AVL Tree maintained balance and performance with           various operations.
